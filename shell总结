@@ -1,1 +1,4 @@
-
+函数的使用和参数的传递，函数的应用方法
+local局部变量
+临时文件的创建：request params file=$(mktemp)
+echo "$request params"> $request params file
